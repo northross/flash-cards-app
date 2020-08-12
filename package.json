@@ -1,0 +1,23 @@
+{
+  "name": "flash-cards-app",
+  "version": "1.0.0",
+  "description": "### This project was created for the practice of saving to local storage, clearing local storage, and CSS transform properties.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d flash-cards-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/flash-cards-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/flash-cards-app/issues"
+  },
+  "homepage": "https://northross.github.io/flash-cards-app",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
