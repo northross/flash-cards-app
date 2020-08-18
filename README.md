@@ -11,12 +11,12 @@
 
 ## Flash Card Front
 
-<img src="https://imgur.com/tVZ8POt.png" width="800">
+<img src="https://imgur.com/C0GlhFv.png" width="800">
 
 ## Flash Card Reverse
 
-<img src="https://imgur.com/xQTnkmu.png" width="800">
+<img src="https://imgur.com/ALbELcA.png" width="800">
 
 ## Q&A Input
 
-<img src="https://imgur.com/WoL7Zz7.png" width="800">
+<img src="https://imgur.com/Cvv92MM.png" width="800">
